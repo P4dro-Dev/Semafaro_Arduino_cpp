@@ -1,1 +1,1 @@
-## 💻| Projeto do Semáfaro com Arduino + Cpp + Prot
+## 💻| Projeto do Semáfaro com Arduino + Cpp + Proto
