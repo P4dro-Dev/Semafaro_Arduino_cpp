@@ -1,1 +1,1 @@
-## 💻| Proj Se
+## 💻| Proje Se
