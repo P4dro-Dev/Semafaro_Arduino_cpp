@@ -1,1 +1,1 @@
-## 💻| Projeto do Semáfaro c
+## 💻| Projeto do Semáfaro co
