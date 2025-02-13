@@ -1,1 +1,1 @@
-## 💻| Projeto do Semáfaro com Ard
+## 💻| Projeto do Semáfaro com Ardu
