@@ -1,1 +1,1 @@
-## 💻| Projeto d Se
+## 💻| Projeto do Se
