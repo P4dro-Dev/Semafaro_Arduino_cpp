@@ -1,1 +1,1 @@
-## 💻| Projeto do Semáfaro com Arduin
+## 💻| Projeto do Semáfaro com Arduino
